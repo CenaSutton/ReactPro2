@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactPro2/static/css/main.62bbdd36.chunk.css",
+    "main.js": "/ReactPro2/static/js/main.843c1cfb.chunk.js",
+    "main.js.map": "/ReactPro2/static/js/main.843c1cfb.chunk.js.map",
+    "runtime-main.js": "/ReactPro2/static/js/runtime-main.7e252ca1.js",
+    "runtime-main.js.map": "/ReactPro2/static/js/runtime-main.7e252ca1.js.map",
+    "static/js/2.fa17bc9f.chunk.js": "/ReactPro2/static/js/2.fa17bc9f.chunk.js",
+    "static/js/2.fa17bc9f.chunk.js.map": "/ReactPro2/static/js/2.fa17bc9f.chunk.js.map",
+    "static/js/3.9917e95d.chunk.js": "/ReactPro2/static/js/3.9917e95d.chunk.js",
+    "static/js/3.9917e95d.chunk.js.map": "/ReactPro2/static/js/3.9917e95d.chunk.js.map",
+    "index.html": "/ReactPro2/index.html",
+    "static/css/main.62bbdd36.chunk.css.map": "/ReactPro2/static/css/main.62bbdd36.chunk.css.map",
+    "static/js/2.fa17bc9f.chunk.js.LICENSE.txt": "/ReactPro2/static/js/2.fa17bc9f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ReactPro2/static/media/bg-intro-desktop.059183ee.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e252ca1.js",
+    "static/js/2.fa17bc9f.chunk.js",
+    "static/css/main.62bbdd36.chunk.css",
+    "static/js/main.843c1cfb.chunk.js"
+  ]
+}
